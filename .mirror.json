@@ -1,5 +1,12 @@
 {
- "assets": {},
+ "assets": {
+  "flour": "352bc657ebe3a4d33fd3c7090915d3b18e108ffc",
+  "macro_flour": "ad58c8c6b626f75277746a06c751a163d08492ae",
+  "reed_roof_03": "c9d3085a4f2194f7996a65b2211fa5280319427e",
+  "reed_roof_04": "e258384d228299d4606ccbe38dd2e815047b5271",
+  "riet_01": "673859a83d61e40a08419821591c5ebe2f922c66",
+  "thatch_roof_angled": "ae272743c3e50cfb1bbb4a74783700a67aef44da"
+ },
  "license": "https://polyhaven.com/license",
  "site": "https://polyhaven.com",
  "source": "polyhaven",
